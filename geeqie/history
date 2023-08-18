@@ -1,0 +1,21 @@
+#History lists
+
+[shortcuts]
+".[path](null)"
+"Home[path]/home/katier"
+"Desktop[path]/home/katier/Desktop"
+"Collections[path]/home/katier/.local/share/geeqie/collections"
+
+[path_list]
+"/home/katier"
+"/home/katier/screenshots"
+"/home/katier/Pictures/Screenshots"
+"/home/katier/Pictures"
+
+[image_list]
+"/home/katier/20230816_12h35m34s_grim.png"
+"/home/katier/screenshots/Screenshot.from.2023-08-16.at.12_53_55.731073157.png"
+"/home/katier/Pictures/Screenshots/Tumblr—MozillaFirefox_1692257825_grim.png"
+"/home/katier/Pictures/NAVI.jpg"
+
+#end

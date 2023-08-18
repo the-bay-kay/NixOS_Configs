@@ -1,0 +1,21 @@
+# Ignore dots that aren't customized / will be initialized on nixos-rebuild
+#
+# Directories first
+GIMP/
+autostart/
+dconf/
+discord/
+spotify/
+rustdesk/
+gtk-3.0/
+xpad/
+pulse/
+inkscape/
+spotify-tui/
+obs-studio/
+# Files
+pavucontrol.ini
+QtProject.conf
+mimeapps.list
+spotifyd
+
